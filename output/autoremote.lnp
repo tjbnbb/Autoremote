@@ -1,0 +1,4 @@
+".\output\main.obj",
+".\source\STCBSP_V3.4.LIB" 
+TO ".\output\autoremote" 
+PRINT(".\list\autoremote.m51") RAMSIZE(256) 

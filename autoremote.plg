@@ -1,0 +1,80 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+E:\电子系统设计与创新基础训练\autoremote\autoremote.uvproj
+Project File Date:  09/14/2021
+
+<h2>Output:</h2>
+Rebuild target 'Target 1'
+compiling main.c...
+compiling function.c...
+source\function.c(4): error C202: 'func': undefined identifier
+source\function.c(5): error C202: 'switchflag': undefined identifier
+source\function.c(6): error C202: 'instruction': undefined identifier
+source\function.c(7): error C202: 'co': undefined identifier
+source\function.c(8): error C202: 'co': undefined identifier
+source\function.c(12): error C202: 'instruction': undefined identifier
+source\function.c(18): error C202: 'co': undefined identifier
+source\function.c(19): error C202: 'co': undefined identifier
+source\function.c(24): error C202: 'co': undefined identifier
+source\function.c(25): error C202: 'co': undefined identifier
+source\function.c(31): error C202: 'co': undefined identifier
+source\function.c(32): error C202: 'co': undefined identifier
+source\function.c(36): error C202: 'instruction': undefined identifier
+source\function.c(41): error C202: 'co': undefined identifier
+source\function.c(42): error C202: 'co': undefined identifier
+source\function.c(47): error C202: 'co': undefined identifier
+source\function.c(48): error C202: 'co': undefined identifier
+source\function.c(54): error C202: 'co': undefined identifier
+source\function.c(55): error C202: 'co': undefined identifier
+source\function.c(57): error C202: 'co': undefined identifier
+source\function.c(63): error C202: 'switchflag': undefined identifier
+source\function.c(64): error C202: 'autocontrol': undefined identifier
+source\function.c(66): error C202: 'tempnow': undefined identifier
+source\function.c(67): error C202: 'tempnow': undefined identifier
+source\function.c(69): error C202: 'temperature': undefined identifier
+source\function.c(70): error C202: 'temperature': undefined identifier
+source\function.c(71): error C202: 'func': undefined identifier
+Target not created
+Rebuild target 'Target 1'
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?GETBEEPSTATUS?BEEP
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?GETULTRASONIC?SYS
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?GETSYSPERFORMANCE?SYS
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SETIRRXD?IR
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?GETIRRXNUM?IR
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_IRPRINT?IR
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?GETIRSTATUS?IR
+Program Size: data=93.5 xdata=302 code=5971
+creating hex file from ".\output\autoremote"...
+".\output\autoremote" - 0 Error(s), 7 Warning(s).
+Rebuild target 'Target 1'
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?GETBEEPSTATUS?BEEP
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?GETULTRASONIC?SYS
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?GETSYSPERFORMANCE?SYS
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_SETIRRXD?IR
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?GETIRRXNUM?IR
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_IRPRINT?IR
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?GETIRSTATUS?IR
+Program Size: data=93.5 xdata=302 code=5971
+creating hex file from ".\output\autoremote"...
+".\output\autoremote" - 0 Error(s), 7 Warning(s).
